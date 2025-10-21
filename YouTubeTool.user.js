@@ -1030,7 +1030,7 @@ const defaultConfig = {
         panel.id = 'yt-speed-settings-panel';
         panel.style.cssText = `position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: #ffffff; padding: 24px; border-radius: 12px; z-index: 2147483647; color: #0f0f0f; font-family: 'YouTube Sans', 'Roboto', sans-serif; width: 480px; max-width: 90vw; max-height: 80vh; overflow-y: auto; box-shadow: 0 4px 32px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; display: none;`;
         const title = document.createElement('h2');
-        title.textContent = '播放速度控制设置';
+        title.textContent = 'YouTubeTool设置';
         title.style.cssText = `margin: 0 0 20px 0; font-size: 20px; font-weight: 500; color: #0f0f0f; padding-bottom: 12px; border-bottom: 1px solid #e0e0e0;`;
         panel.appendChild(title);
         const settings = [
