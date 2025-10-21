@@ -64,3 +64,11 @@ YouTubeTool
 	响应式设计，适配各种播放器模式
 
 享受更流畅的 YouTube 观看体验！
+
+
+![脚本界面截图](Images/1.png)
+![脚本界面截图](Images/2.png)
+![脚本界面截图](Images/3.png)
+![脚本界面截图](Images/4.png)
+![脚本界面截图](Images/5.png)
+![脚本界面截图](Images/6.png)
